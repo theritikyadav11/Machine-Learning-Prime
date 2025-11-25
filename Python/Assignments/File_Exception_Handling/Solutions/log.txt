@@ -1,0 +1,12 @@
+[INFO] System initialized successfully.
+[DEBUG] User session started.
+[WARNING] Low memory detected.
+[ERROR] File not found: config.yml
+[INFO] Backup completed.
+[DEBUG] Connection established with server.
+[CRITICAL] Unauthorized access attempt blocked.
+[INFO] Process terminated gracefully.
+[DEBUG] Cache refreshed.
+[WARNING] Disk usage at 85%.
+
+Program run successfully
